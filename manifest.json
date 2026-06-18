@@ -1,17 +1,17 @@
 [
   {
     "name": "Alexa",
-    "guid": "71380963-8a3c-44c1-9f2d-45217462c01d",
-    "owner": "JJB0nner",
+    "guid": "e62bf281-72af-4102-82a4-47649e856b81",
+    "owner": "NiceneNerd",
     "overview": "Play media from your Jellyfin server with Alexa.",
     "description": "Forked for 10.11.6 compatibility.",
     "category": "Media Player",
     "versions": [
       {
-        "version": "1.1.0.1",
+        "version": "1.0",
         "changelog": "Override for 10.11.6",
         "targetAbi": "10.11.6.0",
-        "sourceUrl": "https://github.com/JJB0nner/jellyfin-alexa-pluginidk/releases/download/Build/Jellyfin.Plugin.AlexaSkill.zip"
+        "sourceUrl": "https://github.com/NiceneNerd/jellyfin-alexa-pluginidk/releases/download/v1.0/Jellyfin.Plugin.AlexaSkill.zip"
       }
     ]
   }
